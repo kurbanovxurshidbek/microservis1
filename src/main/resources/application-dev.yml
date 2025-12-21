@@ -1,7 +1,7 @@
 spring:
   #DATABASE
   datasource:
-    url: jdbc:postgresql://localhost:5432/uzasia_export
+    url: jdbc:postgresql://localhost:5432/dvdrental
     #url: jdbc:postgresql://116.203.237.174:5432/dvdrental
     username: unameconnection
     password: 'conGG54ed$'
